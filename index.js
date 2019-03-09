@@ -1,2 +1,3 @@
-import App from './App'
-export default App
+'use strict';
+
+export {default as JsonEditor} from './App.vue';
